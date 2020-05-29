@@ -26,3 +26,6 @@ hr {
   width: 70%;
   border-top: fuchsia 6px solid;
 }
+p::first-letter{
+  font-size: xx-large;
+}
